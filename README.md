@@ -1,3 +1,6 @@
+# ExcelFile
+このリポジトリに、私が制作したExcelFileを上げていきます。
+
 ## UnoFripScore.xlsx
 UNOフリップ公式説明書における得点換算表と親の可視化をするシートの作成
 
